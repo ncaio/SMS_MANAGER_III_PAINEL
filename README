@@ -1,0 +1,30 @@
+/
+//  Noilson Caio Teixeira de Araujo
+//
+//  FRONTAL PAINEL NOBREAK SMS - MODEL MANAGER III - http://infotecconsultoria.mercadoshops.com.br/nobreak-sms-manager-iii-bivolt-1120120_iZ61XvZmXpZ1XfZ64791702-61-3.jpgxIM.jpg
+// 
+//  
+// VIDEO: http://www.youtube.com/watch?v=zQiGfmdTwPI&feature=youtu.be
+//
+//
+//                <FRONT>
+//
+//
+//
+//                        | o | Button
+//  
+//                        resistance
+//                        resistance
+//                        resistance
+//
+//  Button       ----       O  led
+//  Button       ----       O  led
+//  pindigi9     ----       O  led
+//  pindigi10    ----       O  led
+//  pindigi11    ----
+//  pindigi12    ----
+//  pindigi13    ----      resistance
+//  GND          ----       O  led
+//
+//
+//
